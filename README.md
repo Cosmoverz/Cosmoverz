@@ -1,1 +1,1 @@
-![Bio](https://i.ibb.co/dBCFj5M/Card.png)
+![Bio](https://github.com/Spacesters/Spacesters/blob/main/Card.png)
