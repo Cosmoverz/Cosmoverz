@@ -1,3 +1,6 @@
+<p align="center">
+<img style="text:align: center;" src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=FECD1A&size=25&center=true&vCenter=true&lines=Cooli+the+Awesome;Cooli+the+Coder;Cooli+the+Best;Cooli+the+Cool"></img></p>
+
 ![Bio](https://github.com/Spacesters/Spacesters/blob/main/Card.png)
 
 ---
