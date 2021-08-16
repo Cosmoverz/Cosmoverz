@@ -1,13 +1,10 @@
-<p align="center">
-<img style="text:align: center;" src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=FECD1A&size=25&center=true&vCenter=true&lines=Cooli+the+Awesome;Cooli+the+Coder;Cooli+the+Best;Cooli+the+Cool"></img></p>
-
 ![Bio](https://github.com/Spacesters/Spacesters/blob/main/Card.png)
 
 ---
 
-<!-- ### Total GitHub Views
+### Total GitHub Views
 
-<img src='https://myviewcounts.rayhanadev.repl.co/viewcount/cooli.svg'> -->
+<img src='https://myviewcounts.rayhanadev.repl.co/viewcount/ViewsGithub.svg'>
 
 ---
 
@@ -17,7 +14,7 @@
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=Spacesters&theme=holi-theme&hide_border=true)
 
-#### Good Project
+#### Good Projects
 ![](https://github-readme-stats.vercel.app/api/pin?username=Spacesters&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=none)
 
 #### Top Languages
