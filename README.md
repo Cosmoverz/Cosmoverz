@@ -2,9 +2,7 @@
 
 ---
 
-### Total GitHub Views
-
-<img src='https://myviewcounts.rayhanadev.repl.co/viewcount/ViewsGithub.svg'>
+<img src='https://myviewcounts.cooli.repl.co/viewcount/Views.svg'>
 
 ---
 
@@ -20,9 +18,18 @@
 #### Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacesters&border_color=none&bg_color=f1f3f8)
 
-#### Known Lanugages
+#### Knowledge
 
+###### Languages
 <img height="25" src="https://i.ibb.co/Y3NqJ3P/HTML.png"></img> <img height="25" src="https://i.ibb.co/5jHbHzM/CSS.png"></img> <img height="25" src="https://i.ibb.co/nBj1cW4/Python.png"></img>
+
+###### Frameworks
+
+<img height="25" src="https://i.ibb.co/4RwN34P/Flask.png"></img> <img height="25" src="https://i.ibb.co/cCxf03Q/Bootstrap.png"></img> <img height="25" src="https://i.ibb.co/WFfjbmL/Django.png"></img>
+
+###### Software
+
+<img height="25" src="https://i.ibb.co/KhW36Dp/PyCharm.png"></img> <img height="25" src="https://i.ibb.co/y0xSrVv/VS-Code.png"></img> <img height="25" src="https://i.ibb.co/bPxMBnB/Atom.png"></img>
 
 #### Listening
 ![](https://github-readme-remake.vercel.app/api/spotify)
@@ -32,3 +39,8 @@
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Spacesters&theme=dracula&margin-w=10&margin-h=10?column=3)](https://github.com/Spacesters/github-profile-trophy)
+
+---
+
+<p align="center">
+<img src="https://i.ibb.co/WnzzGrQ/Sucess.png"></img></p>
