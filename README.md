@@ -12,12 +12,14 @@
 
 ## Cooli's Stats
 
+![](https://github-readme-stackoverflow.vercel.app/?userID=14726707&theme=dark)
+
 ![](https://github-readme-stats.vercel.app/api?username=Spacesters&bg_color=30,ED7B84,9055FF&title_color=283149&text_color=f1f3f8&show_icons=true&border_color=none)
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=Spacesters&theme=holi-theme&hide_border=true)
 
 #### Good Projects
-![](https://github-readme-stats.vercel.app/api/pin?username=Spacesters&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=none)
+![](https://github-readme-stats.vercel.app/api/pin?username=Spacesters&repo=Colio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=none)
 
 #### Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacesters&border_color=none&bg_color=f1f3f8)
@@ -37,6 +39,10 @@
 
 #### Listening
 ![](https://github-readme-remake.vercel.app/api/spotify)
+
+#### Reading
+
+![](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 ---
 
