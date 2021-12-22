@@ -42,10 +42,6 @@
 #### Listening
 ![](https://github-readme-remake.vercel.app/api/spotify)
 
-#### Reading
-
-![](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
 ---
 
 ### Badges
