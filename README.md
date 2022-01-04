@@ -40,6 +40,11 @@
 
 <img height="25" src="https://i.ibb.co/KhW36Dp/PyCharm.png"></img> <img height="25" src="https://i.ibb.co/y0xSrVv/VS-Code.png"></img> <img height="25" src="https://i.ibb.co/bPxMBnB/Atom.png"></img>
 
+#### Loves
+
+###### I just love cats!
+<img src="https://i.ibb.co/sVWzTVx/banner.gif"></img>
+
 #### Listening
 ![](https://github-readme-remake.vercel.app/api/spotify)
 
