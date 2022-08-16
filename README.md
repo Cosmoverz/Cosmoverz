@@ -1,4 +1,4 @@
-<p align="center"><img width="2000" src="https://github.com/Spacesters/Spacesters/blob/main/Hi.gif?raw=true"></img></p>
+<p align="center"><img src="https://github.com/Spacesters/Spacesters/blob/main/Hi.gif?raw=true"></img></p>
 
 ---
 
@@ -19,10 +19,6 @@
 ![](http://github-readme-streak-stats.herokuapp.com?user=Spacesters&theme=holi-theme&hide_border=true)
 
 ![](https://raw.githubusercontent.com/Spacesters/Spacesters/14f3dceb5a0e9926805df3df2d482f5b7a55560a/contribution.svg)
-
-#### Good Projects
-
-<a href="https://github.com/Spacesters/Conal"><img src="https://github-readme-stats.vercel.app/api/pin?username=Spacesters&repo=Conal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=none"></a>
 
 #### Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacesters&border_color=none&bg_color=f1f3f8)
