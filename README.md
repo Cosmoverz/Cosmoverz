@@ -1,56 +1,23 @@
-<p align="center"><img src="https://github.com/Spacesters/Spacesters/blob/main/Hi.gif?raw=true"></img></p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Cosmoverz&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
----
-
-![Bio](https://github.com/Spacesters/Spacesters/blob/main/Card.png)
-
----
+Hi, I am a high schooler who likes to code and start amid the COVID-19 times (2020).
 
 <img src='https://myviewcounts.cooli.repl.co/viewcount/Views.svg'>
 
 ---
 
-## Cooli's Stats
+## Top Projects
 
-![](https://github-readme-stackoverflow.vercel.app/?userID=14726707&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmoverz&repo=Colio)](https://github.com/Cosmoverz)
 
-![](https://github-readme-stats.vercel.app/api?username=Spacesters&bg_color=30,ED7B84,9055FF&title_color=283149&text_color=f1f3f8&show_icons=true&border_color=none)
+## potatoe1's Stats
 
-![](http://github-readme-streak-stats.herokuapp.com?user=Spacesters&theme=holi-theme&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Cosmoverz&bg_color=30,ED7B84,9055FF&title_color=283149&text_color=f1f3f8&show_icons=true&border_color=none)
 
-![](https://raw.githubusercontent.com/Spacesters/Spacesters/14f3dceb5a0e9926805df3df2d482f5b7a55560a/contribution.svg)
+![](http://github-readme-streak-stats.herokuapp.com?user=Cosmoverz&theme=holi-theme&hide_border=true)
 
-#### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacesters&border_color=none&bg_color=f1f3f8)
+![](https://raw.githubusercontent.com/Cosmoverz/Cosmoverz/14f3dceb5a0e9926805df3df2d482f5b7a55560a/contribution.svg)
 
-#### Knowledge
+<img src="https://myreadme.vercel.app/api/embed/Cosmoverz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-###### Languages
-<img height="25" src="https://i.ibb.co/Y3NqJ3P/HTML.png"></img> <img height="25" src="https://i.ibb.co/5jHbHzM/CSS.png"></img> <img height="25" src="https://i.ibb.co/nBj1cW4/Python.png"></img>
-
-###### Frameworks
-
-<img height="25" src="https://i.ibb.co/4RwN34P/Flask.png"></img> <img height="25" src="https://i.ibb.co/cCxf03Q/Bootstrap.png"></img> <img height="25" src="https://i.ibb.co/WFfjbmL/Django.png"></img>
-
-###### Software
-
-<img height="25" src="https://i.ibb.co/KhW36Dp/PyCharm.png"></img> <img height="25" src="https://i.ibb.co/y0xSrVv/VS-Code.png"></img> <img height="25" src="https://i.ibb.co/bPxMBnB/Atom.png"></img>
-
-#### Loves
-
-###### I just love cats!
-<img src="https://i.ibb.co/sVWzTVx/banner.gif"></img>
-
-#### Listening
-![](https://github-readme-remake.vercel.app/api/spotify)
-
----
-
-### Badges
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Spacesters&theme=dracula&margin-w=10&margin-h=10?column=3)](https://github.com/Spacesters/github-profile-trophy)
-
----
-
-<p align="center">
-<img src="https://i.ibb.co/WnzzGrQ/Sucess.png"></img></p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=vercel,heroku,jupyter,python,html,css)](github.com/Cosmoverz)
